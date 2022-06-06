@@ -1,0 +1,62 @@
+@font-face {
+  font-family: Lufga;
+  src: url('../assets/fonts/Lufga/Lufga-Regular.otf');
+}
+@font-face {
+  font-family: Lufga;
+  font-weight: 500;
+  src: url('../assets/fonts/Lufga/Lufga-Regular.otf');
+}
+@font-face {
+  font-family: Lufga;
+  font-weight: thin;
+  src: url('../assets/fonts/Lufga/Lufga-Thin.otf');
+}
+@font-face {
+  font-family: Lufga;
+  font-weight: lighter;
+  src: url('../assets/fonts/Lufga/Lufga-ExtraLight.otf');
+}
+@font-face {
+  font-family: Lufga;
+  font-weight:300;
+  src: url('../assets/fonts/Lufga/Lufga-Light.otf');
+}
+@font-face {
+  font-family: Lufga;
+  font-weight: 600;
+  src: url('../assets/fonts/Lufga/Lufga-SemiBold.otf');
+}
+@font-face {
+  font-family: Lufga;
+  font-weight: 700;
+  src: url('../assets/fonts/Lufga/Lufga-Bold.otf');
+}
+@font-face {
+  font-family: Lufga;
+  font-weight: 800;
+  src: url('../assets/fonts/Lufga/Lufga-ExtraBold.otf');
+}
+@font-face {
+  font-family: Lufga;
+  font-weight: 900;
+  src: url('../assets/fonts/Lufga/Lufga-Black.otf');
+}
+
+
+
+@font-face {
+  font-family: Lato;
+  font-weight: 100;
+  src: url('../assets/fonts/Lato/Lato-Thin.ttf');
+}
+@font-face {
+  font-family: Lato;
+  font-weight: 300;
+  src: url('../assets/fonts/Lato/Lato-Light.ttf');
+}
+@font-face {
+  font-family: Lato;
+  font-weight: 500;
+  src: url('../assets/fonts/Lato/Lato-Regular.ttf');
+}

@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+
+# Ignore the output video from Git but not videos you import into src/.
+out
+.env
+
+# IGNORE TMP files
+src/FetchScript/tmp
+src/FetchScript/satisfying.mp4
+src/FetchScript/comments.json
